@@ -1,0 +1,133 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+html {
+  scroll-behavior: smooth;
+}
+body {
+  width: 100vw;
+  min-height: 100vh;
+}
+header {
+  background-color: #003366;
+  color: white;
+  padding: 20px;
+}
+.first {
+  background-color: #003366;
+}
+
+#hero {
+  min-height: 100vh;
+  background-image: url("Background.jpg");
+  background-size: cover;
+}
+#info {
+  height: 500px;
+  display: block;
+  color: black;
+  background-color: white;
+ border-radius: 10px;
+
+ 
+}
+nav {
+  text-align: center;
+}
+nav a {
+  text-decoration: none;
+  padding: 0px 20px;
+  font-size: 22px;
+  margin: 0 15px;
+  display: inline-block;
+  color: white;
+}
+h2 {
+  color: black;
+}
+pre {
+  font-size: 25px;
+  padding: 40px;
+  font-weight: bold;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.second {
+  text-align: right;
+}
+
+button {
+  border: none;
+
+  background-color: rgb(28, 81, 206);
+  border-radius: 25px;
+  width: 160px;
+  height: 40px;
+  padding: auto;
+  margin-right: 40px;
+}
+#box1 a {
+  text-decoration: none;
+  font-size: 20px;
+  color: white;
+}
+span {
+  color:black;
+}
+.six{
+  color: white;
+}
+#foot{
+  text-align: center;
+  background-color:rgb(0 91 73/ 0.9);
+  color: white;
+  padding: 20px;
+}
+#foot a{
+  color: white;
+}
+a{
+  text-decoration: none;
+}
+#app i{
+  
+  padding: 10px;
+  font-size: 15px;
+  color: blue;
+  cursor: pointer;
+  
+}
+div i{
+  text-align: left;
+}
+#app i:hover {
+  opacity: 0.4;  
+  text-align: left;
+}
+.five{
+  color:white;
+  font-style:italic;
+  font-size: larger;
+}
+#announce{
+  background-color:lightblue;
+  margin-left: 10px;
+  font-size: 16px;
+  cursor: pointer;
+  transition:red;
+  color: black;
+}
+#announce a{
+  color: black;
+}
+#announce :hover{
+  opacity: 0.4;
+}
+#announce :active{
+background-color: lightslategray;
+}
+
+
+ 

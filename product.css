@@ -1,0 +1,93 @@
+header{
+  background-color: rgb(0 91 73/ 0.9);
+}
+#photo{
+  text-align: center;
+  margin: 0px 150px;
+}
+.ten{
+  text-align: center;
+}
+.nine{
+  margin: 0px 150px;
+}
+form{
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  width: 800px;
+  margin: auto;
+}
+.form-group{
+display:flex;
+gap:3rem;
+
+}
+.input-container{
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  flex-grow: 1;
+}
+
+.form-group.button-container{
+  display: flex i;
+  justify-content: center;
+
+}
+.input-container input{
+  padding: 10px;
+  border-radius: 7px;
+  background-color:#0001;
+  border: none;
+}
+.form-group.button-container #reset1{
+  padding: 10px;
+  border-radius: 10px;
+  
+  background-color: rgb(210, 217, 226);
+  color: white;
+  width: 60px;
+  border-color: rgb(0 91 73/ 0.9);
+  color:rgb(0 91 73/ 0.9) ;
+}
+.form-group.button-container #submit1{
+  padding: 15px;
+  border-radius: 10px;
+  border: none;
+  background-color: rgb(0 91 73/ 0.9);
+  color:white ;
+  width: 100px;  
+}
+
+#foot{
+  text-align: center;
+  background-color:rgb(0 91 73/ 0.9);
+  color: white;
+  padding: 20px;
+}
+#foot a{
+  color: white;
+}
+a{
+  text-decoration: none;
+}
+
+#app i:hover {
+  opacity: 0.4; 
+  cursor: pointer; 
+}
+#app i{
+  color: blue;
+}
+
+.five{
+  color:white;
+  font-style:italic;
+  font-size: larger;
+}
+html {
+  scroll-behavior: smooth;
+}
+
+

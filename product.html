@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My website</title>
+  <link rel="stylesheet" href="product.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+  <link rel="icon" type="image/jpg" href="favicon1.jpg" />
+</head>
+<body>
+  <header>
+   <img src="photo5.jpg">
+  </header>
+  <main>
+    <h1 class="ten">Order now and safeguard your health!</h1>
+    <p class="nine">Our Product Image</p>
+    <img src="photo4.jpg" id="photo">
+    <br><br>
+  <form action="index.php" method="post" enctype="multipart/form-data">
+    
+    <div class="form-group">
+    <div class="input-container">
+    <label for="username">Username <span style="color: red;">*</span></label>
+    <input type="text" id="username" required>
+   </div>
+
+
+   <div class="input-container">
+    <label for="phone">Phone# <span style="color: red;">*</span></label>
+    <input type="tel" id="phone" placeholder="+251 912 345 678 " required>
+    </div>
+  </div>
+
+
+    <div class="form-group">
+     <div class="input-container">
+    <label for="id">Product ID <span style="color: red;">*</span></label>
+    <input type="text" id="id" required>
+   </div>
+   
+   <div class="input-container">
+    <label for="quantity">Quantity <span style="color: red;">*</span></label>
+    <input type="number" id="quantity" min="1" name="quantity" value="1" required>
+  </div>
+  </div>
+  
+  <div class="form-group">
+  <div class="input-container">
+    <label for="price">Price (per item)</label>
+    <input type="text" id="price" name="price" value="250 ETB" readonly>
+  </div>
+  
+
+  <div class="input-container">
+    <label for="region">region</label>
+    <input type="text" id="region">
+  </div>
+  </div>
+
+  <div class="form-group">
+  <div class="input-container">
+    <label for="wereda">Wereda</label>
+    <input type="text" id="wereda">
+   </div>
+  
+
+    <div class="input-container">
+    <label for="house number">house number <span style="color: red;"></span></label>
+    <input type="text" name="" id="house number">
+  </div>
+   </div>
+
+   <div class="form-group button-container">
+    <input type="reset" value="reset" id="reset1">
+    <input type="submit" value="Buy Now" id="submit1">
+  </div>  
+</form>
+</main>
+<br>
+<footer>
+      <div id="foot">
+        <p>&copy; 2025 GDG Medical Center. All rights reserved.</p><br>
+        <a href="https://www.GDGmedicalcenter.com">https://www.GDG-Medical-Center.com</a><br><br>
+
+        <small>
+          <a href="mailto:gdgmedicalcenter.com">dawitlulie@gmail.com</a><br><br>
+          
+          <div id="app" style="text-align: left;padding: 10px;margin: 0px 5px;">
+            <p class="five"> Order with confidence, no worries!</p><br>
+            <i class="fab fa-facebook-f" style="background-color: aliceblue; padding: 5px; margin: 0px 10px;"></i>
+            <i class="fab fa-telegram-plane" style="color: rgb(0, 170, 255); background-color: aliceblue; padding: 5px; margin: 0px 10px;"></i>
+            <i class="fab fa-instagram" style="color: aliceblue; background-color: #C13584;padding: 5px; margin: 0px 10px;"></i>
+            <i class="fab fa-whatsapp" style="background-color: #25D366; color: azure;padding: 5px; margin: 0px 10px;"></i>
+        </div>
+        </small>
+      </div>
+    </footer>
+</body>
+</html>
