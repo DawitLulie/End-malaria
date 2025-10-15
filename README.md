@@ -1,6 +1,6 @@
 # End Malaria 🌿
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=300&color=4CAF50&width=800&lines=End+Malaria+-+Malaria+Awareness+and+Medication+Platform)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=300&color=4CAF50&width=1100&lines=End+Malaria+-+Malaria+Awareness+and+Medication+Platform)
 
 **A Responsive Web Application to Raise Awareness About Malaria and Promote Trusted Medication Solutions.**
 
