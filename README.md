@@ -49,10 +49,11 @@ The website is built with **HTML, CSS, and JavaScript**, with a focus on respons
 ---
 
 ## Screenshots
-![Home Page](<img width="1878" height="868" alt="image" src="https://github.com/user-attachments/assets/90e6fa6c-1774-49a8-8688-3fb13a215b3a" />
+<img width="1878" height="868" alt="image" src="https://github.com/user-attachments/assets/90e6fa6c-1774-49a8-8688-3fb13a215b3a" />
 <img width="1876" height="776" alt="image" src="https://github.com/user-attachments/assets/2ece2284-0df6-46c0-bd36-85723c70b47c" />
+<img width="1892" height="888" alt="image" src="https://github.com/user-attachments/assets/0828c23d-9361-460f-b5ca-6deb430ce831" />
 
-![FAQ Page](<img width="1892" height="888" alt="image" src="https://github.com/user-attachments/assets/98608069-f8c2-4f11-bb42-07c90de27721" />)  
+
 
 > *(Replace these images with your actual screenshots stored in your repo.)*
 
